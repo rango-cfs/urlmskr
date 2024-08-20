@@ -21,9 +21,9 @@ urlmskr includes libraries for various programming languages in the root directo
     <title>Example</title>
   </head>
   <body>
-    <script src="https://axorax.github.io/urlmskr/lib.js"></script>
+    <script src="https://rango-cfs.github.io/urlmskr/lib.js"></script>
     <script>
-      document.write(urlmskr.mask("https://axorax.github.io")); // Mask URL
+      document.write(urlmskr.mask("https://rango-cfs.github.io")); // Mask URL
       document.write("<br>"); // Add empty line
       document.write(urlmskr.mask("Hello", "text")); // Mask text
     </script>
